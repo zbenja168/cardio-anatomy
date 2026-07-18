@@ -1,0 +1,370 @@
+[
+  {
+    "id": "caanat-001",
+    "imageRef": "caanat-001_ca000_f02.png",
+    "answer": "Pericardiectomy",
+    "brick": "Constrictive Pericarditis",
+    "category": "Gross Anatomy",
+    "explanation": "The image shows pericardiectomy, surgical removal of the fibrotic, non-compliant pericardium. It is the definitive treatment for markedly symptomatic constrictive pericarditis, relieving the external constraint on ventricular filling, though operative mortality is relatively high."
+  },
+  {
+    "id": "caanat-002",
+    "imageRef": "caanat-002_ca001_f02.png",
+    "answer": "Pericardium",
+    "brick": "Hemodynamic Monitoring in Shock",
+    "category": "Gross Anatomy",
+    "explanation": "The space labeled between the visceral (epicardial) and parietal pericardium is the pericardial cavity. When fluid there accumulates rapidly or in large volume it compresses the chambers and impairs filling, producing cardiac tamponade, a life-threatening cause of obstructive shock."
+  },
+  {
+    "id": "caanat-003",
+    "imageRef": "caanat-003_ca004_f01.png",
+    "answer": "Aortic arch",
+    "brick": "Aortic Arch Anatomy",
+    "category": "Gross Anatomy",
+    "explanation": "On the left, the common carotid and subclavian arteries arise separately and directly from the aortic arch, unlike the right side where a brachiocephalic trunk first divides into the right subclavian and right common carotid arteries. This asymmetry reflects the differing embryologic remodeling of the aortic arches."
+  },
+  {
+    "id": "caanat-004",
+    "imageRef": "caanat-004_ca004_f02.png",
+    "answer": "Embryo",
+    "brick": "Aortic Arch Anatomy",
+    "category": "Gross Anatomy",
+    "explanation": "The pharyngeal (branchial) arches shown remodel to form the great arteries and other structures of the head, neck, and thorax. Somites, the heart bulge, lens placode, and otic placode are also visible, marking key landmarks of the developing embryo."
+  },
+  {
+    "id": "caanat-005",
+    "imageRef": "caanat-005_ca006_f01.png",
+    "answer": "Aortic coarctation",
+    "brick": "Obstructive Congenital Heart Defects",
+    "category": "Gross Anatomy",
+    "explanation": "Coarctation of the aorta is a stricture of the aortic lumen most often located in the descending aorta just distal to the left subclavian artery, near the attachment of the ligamentum arteriosum (the remnant of the fetal ductus arteriosus)."
+  },
+  {
+    "id": "caanat-006",
+    "imageRef": "caanat-006_ca010_f02.png",
+    "answer": "Bicuspid aortic valve",
+    "brick": "Aortic Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "The valve on the right is a bicuspid aortic valve (two cusps instead of three). Abnormal leaflet mechanics accelerate calcification, so these patients typically develop aortic stenosis decades earlier than those with a normal tricuspid valve."
+  },
+  {
+    "id": "caanat-007",
+    "imageRef": "caanat-007_ca013_f08.png",
+    "answer": "Arterial wall",
+    "brick": "Hemodynamics: Blood Pressure",
+    "category": "Histology & Cell Biology",
+    "explanation": "The internal and external elastic membranes and abundant elastin allow large arteries to stretch as blood is ejected in systole and recoil in diastole, sustaining pressure between beats; collagen provides tensile strength and smooth muscle adjusts tone, but elastic tissue drives the reversible expansion."
+  },
+  {
+    "id": "caanat-008",
+    "imageRef": "caanat-008_ca013_f11.png",
+    "answer": "Artery vs vein",
+    "brick": "Hemodynamics: Blood Pressure",
+    "category": "Histology & Cell Biology",
+    "explanation": "Arteries are exposed to high pressures and large radii, so by the law of Laplace they experience high wall tension and require thick walls rich in elastin and collagen; veins operate at low pressure and thus have thin, less muscular walls, giving the collapsed, thin-walled appearance seen here."
+  },
+  {
+    "id": "caanat-009",
+    "imageRef": "caanat-009_ca014_f05.png",
+    "answer": "Capillary types",
+    "brick": "Starling Forces",
+    "category": "Histology & Cell Biology",
+    "explanation": "Discontinuous (sinusoidal) capillaries have large gaps in their wall, making them highly permeable; they are found where large substances and cells must cross, such as liver, spleen, and bone marrow."
+  },
+  {
+    "id": "caanat-010",
+    "imageRef": "caanat-010_ca021_f01.png",
+    "answer": "Cardiac valves",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "category": "Gross Anatomy",
+    "explanation": "A short-axis section at the level of the valves shows the dense fibrous cardiac skeleton, a ring of connective tissue that surrounds and anchors all four valve annuli and electrically insulates the atria from the ventricles."
+  },
+  {
+    "id": "caanat-011",
+    "imageRef": "caanat-011_ca023_f02.png",
+    "answer": "Vessel tunicae",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "The prominent wavy line between the tunica intima and tunica media is the internal elastic lamina, a sheet of elastic tissue that appears crimped in fixed sections."
+  },
+  {
+    "id": "caanat-012",
+    "imageRef": "caanat-012_ca023_f05.png",
+    "answer": "Aorta",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "The aorta is an elastic artery whose tunica media is packed with elastin, letting it stretch under the systolic surge and recoil during diastole to smooth blood flow."
+  },
+  {
+    "id": "caanat-013",
+    "imageRef": "caanat-013_ca023_f06.png",
+    "answer": "Aortic elastin",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "An elastin (elastic) stain darkens the dense, wavy elastic lamellae of the aortic media, illustrating the high elastin content characteristic of elastic arteries."
+  },
+  {
+    "id": "caanat-014",
+    "imageRef": "caanat-014_ca023_f08.png",
+    "answer": "Arteriole",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Arterioles are the smallest arteries; they have proportionally thicker muscular walls than the thin-walled venules, though they lack an external elastic lamina and often have an incomplete internal elastic lamina."
+  },
+  {
+    "id": "caanat-015",
+    "imageRef": "caanat-015_ca023_f13.png",
+    "answer": "Fenestrated capillary",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Fenestrated capillaries have pores (fenestrae) in the endothelium over an intact basement membrane, allowing greater transit of fluid and molecules; they populate the glomeruli, intestines, and endocrine glands."
+  },
+  {
+    "id": "caanat-016",
+    "imageRef": "caanat-016_ca025_f01.png",
+    "answer": "Aortic dissection",
+    "brick": "Aortic Dissection",
+    "category": "Gross Anatomy",
+    "explanation": "The left diagram is a Stanford type A dissection (involving the ascending aorta), which is more dangerous and requires immediate surgical intervention. The right (type B) dissection, which spares the ascending aorta, is generally managed medically."
+  },
+  {
+    "id": "caanat-017",
+    "imageRef": "caanat-017_ca027_f02.png",
+    "answer": "Giant cell arteritis",
+    "brick": "Large-Vessel Vasculitis",
+    "category": "Histology & Cell Biology",
+    "explanation": "The classic histologic picture of giant cell arteritis is a transmural inflammatory infiltrate of lymphocytes and macrophages with multinucleated giant cells involving all layers of the wall, producing intimal thickening and luminal narrowing. Isolated single-layer involvement is not characteristic."
+  },
+  {
+    "id": "caanat-018",
+    "imageRef": "caanat-018_ca027_f03.png",
+    "answer": "Carotid artery branches",
+    "brick": "Large-Vessel Vasculitis",
+    "category": "Gross Anatomy",
+    "explanation": "In GCA, ischemia from vasculitis occludes the posterior ciliary branches of the ophthalmic artery (which arises from the internal carotid), causing anterior ischemic optic neuropathy and irreversible blindness. This is why steroids are started before biopsy results return."
+  },
+  {
+    "id": "caanat-019",
+    "imageRef": "caanat-019_ca029_f01.png",
+    "answer": "Coronary arteries",
+    "brick": "Coronary Blood Flow and Vascular Physiology",
+    "category": "Gross Anatomy",
+    "explanation": "The vessel shown running down the anterior interventricular groove is the left anterior descending (LAD) artery, a branch of the left main coronary artery. It supplies the anterior LV wall and most of the interventricular septum, so its occlusion produces an anterior/anteroseptal infarct."
+  },
+  {
+    "id": "caanat-020",
+    "imageRef": "caanat-020_ca033_f07.png",
+    "answer": "Carotid endarterectomy",
+    "brick": "Carotid Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "Endarterectomy removes the atheromatous plaque and inner arterial layer through an open arteriotomy, directly relieving high-grade stenosis in symptomatic patients."
+  },
+  {
+    "id": "caanat-021",
+    "imageRef": "caanat-021_ca038_f05.png",
+    "answer": "Coronary arteries",
+    "brick": "ST Segment Changes",
+    "category": "Gross Anatomy",
+    "explanation": "In most hearts the right coronary artery supplies the inferior and posterior walls of the left ventricle as well as the right ventricle, which is why inferior infarcts are typically attributed to RCA occlusion. The LAD supplies the anterior wall and the circumflex the lateral wall."
+  },
+  {
+    "id": "caanat-022",
+    "imageRef": "caanat-022_ca042_f04.png",
+    "answer": "Varicose veins",
+    "brick": "Superficial Venous Disease",
+    "category": "Gross Anatomy",
+    "explanation": "Varicose veins are dilated, tortuous veins of the superficial venous system, which lies above the deep fascia. Valvular incompetence in these superficial veins causes them to become engorged and visibly tortuous."
+  },
+  {
+    "id": "caanat-023",
+    "imageRef": "caanat-023_ca043_f01.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "The chordae tendineae and papillary muscles keep the leaflets from flipping back into the left atrium during systole; loss of that competence allows systolic backflow, i.e. mitral regurgitation."
+  },
+  {
+    "id": "caanat-024",
+    "imageRef": "caanat-024_ca043_f04.png",
+    "answer": "Myxomatous degeneration",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Histology & Cell Biology",
+    "explanation": "Myxomatous degeneration expands the spongiosa with proteoglycans, weakening the leaflet and chordae so the valve becomes floppy and bulges into the LA during systole (mitral valve prolapse)."
+  },
+  {
+    "id": "caanat-025",
+    "imageRef": "caanat-025_ca043_f08.png",
+    "answer": "Mitral valve repair",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "Annuloplasty ring repair or prosthetic valve replacement restores leaflet coaptation and is the definitive treatment for symptomatic severe mitral regurgitation."
+  },
+  {
+    "id": "caanat-026",
+    "imageRef": "caanat-026_ca048_f01.png",
+    "answer": "Heart anatomy",
+    "brick": "Atrial Fibrillation",
+    "category": "Gross Anatomy",
+    "explanation": "The yellow-highlighted vessels are the pulmonary veins draining into the left atrium. Ectopic foci at the pulmonary vein ostia are the most common trigger for atrial fibrillation, which is why pulmonary vein isolation is the cornerstone of AF ablation."
+  },
+  {
+    "id": "caanat-027",
+    "imageRef": "caanat-027_ca051_f06.png",
+    "answer": "ICD",
+    "brick": "Ventricular Arrhythmias",
+    "category": "Gross Anatomy",
+    "explanation": "A pulse generator with pacing/sensing leads plus dedicated shock coils able to detect and terminate ventricular tachyarrhythmias represents an implantable cardioverter-defibrillator, which combines pacing capability with high-energy defibrillation."
+  },
+  {
+    "id": "caanat-028",
+    "imageRef": "caanat-028_ca057_f05.png",
+    "answer": "Lymphocytic myocarditis",
+    "brick": "Dilated Cardiomyopathy",
+    "category": "Histology & Cell Biology",
+    "explanation": "A predominantly lymphocytic infiltrate is characteristic of viral myocarditis; bacterial infection tends to produce neutrophilic infiltrates and hypersensitivity reactions produce eosinophilic infiltrates."
+  },
+  {
+    "id": "caanat-029",
+    "imageRef": "caanat-029_ca063_f01.png",
+    "answer": "Cardiac skeleton",
+    "brick": "Aortic Regurgitation and Pulmonary Valve Disease",
+    "category": "Gross Anatomy",
+    "explanation": "The valves sit in the fibrous cardiac skeleton, which anchors the leaflets and myocardium and electrically insulates the atria from the ventricles, restricting the only conduction pathway to the AV node. This is why the tricuspid and mitral valves are shown closed during diastole in the same plane."
+  },
+  {
+    "id": "caanat-030",
+    "imageRef": "caanat-030_ca064_f02.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "The mitral (bicuspid) valve has two leaflets, an anterior and a posterior leaflet, anchored by chordae tendineae to the papillary muscles. This distinguishes it from the tricuspid, aortic, and pulmonic valves, which each have three cusps."
+  },
+  {
+    "id": "caanat-031",
+    "imageRef": "caanat-031_ca065_f01.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "The chordae tendineae anchor the leaflets to the papillary muscles and hold the valve closed during systole. Loss of this tethering lets a leaflet flail into the left atrium, causing acute mitral regurgitation."
+  },
+  {
+    "id": "caanat-032",
+    "imageRef": "caanat-032_ca065_f04.png",
+    "answer": "Myxomatous degeneration",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Histology & Cell Biology",
+    "explanation": "Accumulation of proteoglycan-rich myxoid material expanding the spongiosa and disrupting the fibrosa weakens the leaflet, producing the redundant, floppy valve of myxomatous degeneration and mitral valve prolapse."
+  },
+  {
+    "id": "caanat-033",
+    "imageRef": "caanat-033_ca065_f08.png",
+    "answer": "Mitral annuloplasty",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "Placing a ring to remodel and reduce the annular circumference (annuloplasty) restores coaptation and is a mainstay of mitral valve repair, preserving the native leaflets rather than replacing the valve."
+  },
+  {
+    "id": "caanat-034",
+    "imageRef": "caanat-034_ca066_f01.png",
+    "answer": "Tricuspid valve",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "A three-leaflet (anterior, septal, inferior/posterior) atrioventricular valve seated between the right atrium and right ventricle, adjacent to the AV node artery and right coronary artery, is the tricuspid valve. The mitral valve has only two leaflets, and the aortic and pulmonary valves are semilunar valves with three cusps but no chordae/leaflet arrangement."
+  },
+  {
+    "id": "caanat-035",
+    "imageRef": "caanat-035_ca066_f02.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "A bileaflet atrioventricular valve with a scalloped three-lobed posterior leaflet tethered by chordae tendineae to papillary muscles is the mitral valve, which separates the left atrium from the left ventricle. The tricuspid valve has three leaflets, and the aortic and pulmonary valves are semilunar valves lacking chordae and papillary muscles."
+  },
+  {
+    "id": "caanat-036",
+    "imageRef": "caanat-036_ca067_f02.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "The mitral valve opens during diastole to permit blood to flow from the left atrium into the left ventricle, and closes during systole to prevent backflow. The chordae tendineae and papillary muscles tether the leaflets to prevent prolapse."
+  },
+  {
+    "id": "caanat-037",
+    "imageRef": "caanat-037_ca070_f01.png",
+    "answer": "Pericardium",
+    "brick": "Acute Pericarditis",
+    "category": "Gross Anatomy",
+    "explanation": "The pericardial cavity, located between the parietal and visceral layers of the serous pericardium, normally contains a small amount of serous fluid that reduces friction as the heart contracts and relaxes."
+  },
+  {
+    "id": "caanat-038",
+    "imageRef": "caanat-038_ca070_f02.png",
+    "answer": "Normal pericardium",
+    "brick": "Acute Pericarditis",
+    "category": "Histology & Cell Biology",
+    "explanation": "The myocardium seen at the base of the section is made of cardiomyocytes, beneath the visceral pericardium and its overlying adipose tissue."
+  },
+  {
+    "id": "caanat-039",
+    "imageRef": "caanat-039_ca070_f05.png",
+    "answer": "Purulent pericarditis",
+    "brick": "Acute Pericarditis",
+    "category": "Histology & Cell Biology",
+    "explanation": "A neutrophil-rich (purulent) infiltrate is the hallmark of bacterial pericarditis, distinguishing it from the lymphocyte-predominant serous inflammation of viral causes."
+  },
+  {
+    "id": "caanat-040",
+    "imageRef": "caanat-040_ca076_f01.png",
+    "answer": "Embryo",
+    "brick": "Management of Shock",
+    "category": "Gross Anatomy",
+    "explanation": "The paired arteries of the pharyngeal (aortic) arches remodel into the great arteries: the 3rd arch forms the common carotids, the 4th contributes to the arch of the aorta and proximal right subclavian, and the 6th forms the pulmonary arteries and the ductus arteriosus. The veins, coronary arteries, and pulmonary veins arise from separate developmental fields."
+  },
+  {
+    "id": "caanat-041",
+    "imageRef": "caanat-041_ca077_f02.png",
+    "answer": "Aortic arches",
+    "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "category": "Gross Anatomy",
+    "explanation": "Of the six paired aortic arches, the left fourth arch persists as the arch of the aorta; the left sixth forms the ductus arteriosus, the third arches contribute to the carotid system, and the first, second, and fifth largely regress."
+  },
+  {
+    "id": "caanat-042",
+    "imageRef": "caanat-042_ca077_f03.png",
+    "answer": "Aortic arch branches",
+    "brick": "Pericardial Effusion and Cardiac Tamponade",
+    "category": "Gross Anatomy",
+    "explanation": "The right recurrent laryngeal nerve loops beneath and around the right subclavian artery before ascending to the larynx, whereas the left recurrent laryngeal nerve hooks around the arch of the aorta near the ligamentum arteriosum."
+  },
+  {
+    "id": "caanat-043",
+    "imageRef": "caanat-043_ca078_f01.png",
+    "answer": "Aortic coarctation",
+    "brick": "Coarctation of the Aorta",
+    "category": "Gross Anatomy",
+    "explanation": "Congenital preductal coarctation is thought to arise from abnormal development of the aortic arch during formation from the embryonic left fourth aortic arch, whereas postductal lesions relate to abnormal development of the descending aorta."
+  },
+  {
+    "id": "caanat-044",
+    "imageRef": "caanat-044_ca078_f02.png",
+    "answer": "Collateral circulation",
+    "brick": "Coarctation of the Aorta",
+    "category": "Gross Anatomy",
+    "explanation": "The enlarged intercostal arteries erode the inferior surface of the ribs as they carry collateral flow to the lower body, producing the classic rib-notching sign on chest radiograph in coarctation of the aorta."
+  },
+  {
+    "id": "caanat-045",
+    "imageRef": "caanat-045_ca079_f05.png",
+    "answer": "Atrial septum formation",
+    "brick": "Patent Ductus Arteriosus",
+    "category": "Histology & Cell Biology",
+    "explanation": "The foramen ovale, bounded by septum primum and septum secundum, permits fetal right-to-left flow. When left atrial pressure rises after birth it seals, leaving the fossa ovalis as a depression in the adult atrial septum."
+  },
+  {
+    "id": "caanat-046",
+    "imageRef": "caanat-046_ca082_f01.png",
+    "answer": "Pericardium",
+    "brick": "Acute Pericarditis",
+    "category": "Gross Anatomy",
+    "explanation": "The pericardial cavity between the visceral and parietal serous layers contains a small volume of serous fluid that lubricates the surfaces, allowing frictionless movement of the beating heart. Accumulation of excess fluid here produces a pericardial effusion."
+  }
+]
